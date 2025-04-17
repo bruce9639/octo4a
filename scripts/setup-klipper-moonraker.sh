@@ -16,8 +16,8 @@ python3 -m venv ~/klipper-venv
 
 echo -e "${COL}\nDownloading moonraker, mainsail and klipper...\n${NC}"
 cd ~/
-git clone https://github.com/Arksine/moonraker.git
-git clone https://github.com/KevinOConnor/klipper
+git clone https://gitee.com/miroky/moonraker.git
+git clone https://gitee.com/miroky/klipper.git
 
 # Download mainsail
 mkdir ~/mainsail
